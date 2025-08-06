@@ -30,6 +30,8 @@ const products = [
   { nome: "Vitta", codigo: "15Kg", preco: "R$180", categoria: "Cães" },
   { nome: "Zuppy", codigo: "20Kg", preco: "R$199,90", categoria: "Cães" },
   //Gatos
+  { nome: "Receita Gato C / A / F", codigo: "10Kg", preco: "R$145", categoria: "Gatos" },
+  { nome: "Nature Gato Castrado", codigo: "10Kg", preco: "R$175", categoria: "Gatos" },
   { nome: "Canister Peixe e Vegetais", codigo: "25Kg", preco: "R$190", categoria: "Gatos" },
   { nome: "Good Friends Peixe e Frutas Amarelas", codigo: "20Kg", preco: "R$180", categoria: "Gatos" },
   { nome: "Snow Cat Sabores do mar / Peixe", codigo: "25Kg", preco: "R$200", categoria: "Gatos" }, 
@@ -52,9 +54,9 @@ const products = [
   { nome: "Borra de Coco", codigo: "50Kg", preco: "R$130", categoria: "Frangos, Suínos, Equinos e outros..." },
   //PEIXES PEIXES PEIXES PEIXES
   { nome: "Peixe 28%", codigo: "30Kg", preco: "R$90", categoria: "Peixes" },
-  { nome: "Peixe 32%", codigo: "30Kg", preco: "R$95", categoria: "Frangos, Suínos, Equinos e outros..." },
+  { nome: "Peixe 32%", codigo: "30Kg", preco: "R$95", categoria: "Peixes" },
   { nome: "Peixe 36%", codigo: "30Kg", preco: "R$145", categoria: "Peixes" },
-  { nome: "Peixe 40%", codigo: "30Kg", preco: "R$195", categoria: "Frangos, Suínos, Equinos e outros..." },
+  { nome: "Peixe 40%", codigo: "30Kg", preco: "R$195", categoria: "Peixes" },
   // TELAS TELAS TELAS TELAS
 { nome: "Tela Pinteiro Plástico", codigo: "1m", preco: "R$275", categoria: "Telas" },
 { nome: "Tela Viveiro Plástico", codigo: "1m", preco: "R$275", categoria: "Telas" },
