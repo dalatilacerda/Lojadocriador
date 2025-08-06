@@ -50,11 +50,25 @@ const products = [
   { nome: "Mixtão Suíno", codigo: "30Kg", preco: "R$75", categoria: "Frangos, Suínos, Equinos e outros..." },
   { nome: "Suíno Crescimento", codigo: "40Kg", preco: "R$120", categoria: "Frangos, Suínos, Equinos e outros..." },
   { nome: "Borra de Coco", codigo: "50Kg", preco: "R$130", categoria: "Frangos, Suínos, Equinos e outros..." },
-  //Peixes
-  { nome: "Peixe 28%", codigo: "30Kg", preco: "R$90", categoria: "Frangos, Suínos, Equinos e outros..." },
+  //PEIXES PEIXES PEIXES PEIXES
+  { nome: "Peixe 28%", codigo: "30Kg", preco: "R$90", categoria: "Peixes" },
   { nome: "Peixe 32%", codigo: "30Kg", preco: "R$95", categoria: "Frangos, Suínos, Equinos e outros..." },
-  { nome: "Peixe 36%", codigo: "30Kg", preco: "R$145", categoria: "Frangos, Suínos, Equinos e outros..." },
+  { nome: "Peixe 36%", codigo: "30Kg", preco: "R$145", categoria: "Peixes" },
   { nome: "Peixe 40%", codigo: "30Kg", preco: "R$195", categoria: "Frangos, Suínos, Equinos e outros..." },
+  // TELAS TELAS TELAS TELAS
+{ nome: "Tela Pinteiro Plástico", codigo: "1m", preco: "R$275", categoria: "Telas" },
+{ nome: "Tela Viveiro Plástico", codigo: "1m", preco: "R$275", categoria: "Telas" },
+{ nome: "Tela Galinheiro Plástico", codigo: "1m", preco: "R$275", categoria: "Telas" },
+//
+{ nome: "Tela Pinteiro Plástico", codigo: "1,5m", preco: "R$385", categoria: "Telas" },
+{ nome: "Tela Viveiro Plástico", codigo: "1,5m", preco: "R$385", categoria: "Telas" },
+{ nome: "Tela Galinheiro Plástico", codigo: "1,5m", preco: "R$385", categoria: "Telas" },
+//
+{ nome: "Tela Pinteiro Galvanizada", codigo: "1m", preco: "R$550", categoria: "Telas" },
+{ nome: "Tela Viveiro Galvanizada", codigo: "1m", preco: "R$600", categoria: "Telas" },
+{ nome: "Tela Galinheiro Galvanizada", codigo: "1,5m", preco: "R$350", categoria: "Telas" },
+{ nome: "Tela Pinteiro Galvanizada", codigo: "1,5m", preco: "R$690", categoria: "Telas" },
+{ nome: "Tela Viveiro Galvanizada", codigo: "1,5m", preco: "R$850", categoria: "Telas" },
 ];
 
 function updateTable(data) {
