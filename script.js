@@ -52,6 +52,8 @@ const products = [
   { nome: "Mixtão Suíno", codigo: "30Kg", preco: "R$75", categoria: "Frangos, Suínos, Equinos e outros..." },
   { nome: "Suíno Crescimento", codigo: "40Kg", preco: "R$120", categoria: "Frangos, Suínos, Equinos e outros..." },
   { nome: "Borra de Coco", codigo: "50Kg", preco: "R$130", categoria: "Frangos, Suínos, Equinos e outros..." },
+  { nome: "Purina Royal Horse", codigo: "40Kg", preco: "R$120", categoria: "Frangos, Suínos, Equinos e outros..." },
+  { nome: "Purina Equinutre", codigo: "30Kg", preco: "R$85", categoria: "Frangos, Suínos, Equinos e outros..." },
   //PEIXES PEIXES PEIXES PEIXES
   { nome: "Peixe 28%", codigo: "30Kg", preco: "R$90", categoria: "Peixes" },
   { nome: "Peixe 32%", codigo: "30Kg", preco: "R$95", categoria: "Peixes" },
