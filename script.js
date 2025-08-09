@@ -60,11 +60,13 @@ const products = [
   { nome: "Peixe 36%", codigo: "30Kg", preco: "R$145", categoria: "Peixes" },
   { nome: "Peixe 40%", codigo: "30Kg", preco: "R$195", categoria: "Peixes" },
   // TELAS TELAS TELAS TELAS
+  { nome: "Tela Mosqueteira Verde", codigo: "1,5m", preco: "R$300", categoria: "Telas" },
+{ nome: "Tela Mosqueteira Verde", codigo: "1m", preco: "R$175", categoria: "Telas" },
 { nome: "Tela Pinteiro Plástico", codigo: "1m", preco: "R$275", categoria: "Telas" },
 { nome: "Tela Viveiro Plástico", codigo: "1m", preco: "R$275", categoria: "Telas" },
 { nome: "Tela Galinheiro Plástico", codigo: "1m", preco: "R$275", categoria: "Telas" },
 //
-{ nome: "Tela Pinteiro Plástico", codigo: "1,5m", preco: "R$385", categoria: "Telas" },
+{ nome: "Tela Pinteiro Plástico", codigo:"1,5m", preco: "R$385", categoria: "Telas" },
 { nome: "Tela Viveiro Plástico", codigo: "1,5m", preco: "R$385", categoria: "Telas" },
 { nome: "Tela Galinheiro Plástico", codigo: "1,5m", preco: "R$385", categoria: "Telas" },
 //
