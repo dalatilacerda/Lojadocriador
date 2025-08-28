@@ -46,7 +46,7 @@ const products = [
   { nome: "Pré Forte", codigo: "20Kg", preco: "R$95", categoria: "Frangos, Suínos, Equinos e outros..." },
   { nome: "Milho inteiro", codigo: "30Kg", preco: "R$65", categoria: "Frangos, Suínos, Equinos e outros..." },
   { nome: "Milho Quebrado", codigo: "40Kg", preco: "R$95", categoria: "Frangos, Suínos, Equinos e outros..." },
-  { nome: "Milho Muido", codigo: "50Kg", preco: "R$100", categoria: "Frangos, Suínos, Equinos e outros..." },
+  { nome: "Milho Muido", codigo: "50Kg", preco: "R$105", categoria: "Frangos, Suínos, Equinos e outros..." },
   { nome: "Farelo de Soja", codigo: "50Kg", preco: "R$165", categoria: "Frangos, Suínos, Equinos e outros..." },
   { nome: "Farelo de Trigo", codigo: "30Kg", preco: "R$65", categoria: "Frangos, Suínos, Equinos e outros..." },
   { nome: "Mixtão Suíno", codigo: "30Kg", preco: "R$75", categoria: "Frangos, Suínos, Equinos e outros..." },
